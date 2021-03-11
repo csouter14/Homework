@@ -1,0 +1,110 @@
+body {
+    font-family: font-family: 'Open Sans', sans-serif; }
+#navBar {
+    display: flex;
+    flex-direction: row;
+    margin: 0px 5%;
+}
+#navigation {
+    color:white;
+    display: inline-flex;
+    align-items: right;
+    justify-content: space-evenly;
+    font-size: 20px;
+    font-weight: bold;
+    padding; 10px
+}
+#navigation2 {
+    color:#28464B;
+    display: inline-flex;
+    align-items: flex-start;
+    justify-content: space-evenly;
+    font-size: 20px;
+    font-weight:bold;
+    padding; 10px
+}
+
+#hero {
+    background-color: #28464B;
+    height: 742px;
+}
+#profilepic {
+    background-image: url(../Homework/Images/profilepic.png);
+}
+#heroSmall {
+    color: white;
+    font-size:25px;
+}
+#heroBig {
+    color: #ECE2D0;
+    font-size: 60px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#hiremeButton {
+    border-radius: 10px;
+    background-color: #77ACA2;
+    color: white;
+    width: 100px;
+    height: 54px;
+    font-size: 20px;
+    font-weight: bold;
+}
+#hiremeButton2 {
+    border-radius: 10px;
+    background-color: #77ACA2;
+    color: white;
+    width: 100px;
+    height: 54px;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0px 5%;
+}
+#resumeButton {
+    border-radius: 10px;
+    background-color: #77ACA2;
+    color: white;
+    width: 211px;
+    height: 54px;
+    font-size: 20px;
+    font-weight: bold;
+}
+#portfolioButton {
+    border-radius: 10px;
+    background-color: white;
+    color:#28464B;
+    width: 136px;
+    height: 54px;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+#aboutmeHeader {
+    color: #28464B;
+    font-size: 50px;
+    margin: 0px 5%;
+}
+#aboutme {
+    height: 716px;
+    margin: 0px 5%;
+}
+
+#aboutblurb {
+    font-size: 25px;
+    margin: 0px 5%;
+    height: 300px;
+    width:462px;
+    justify-content: space-evenly;
+}
+#portfolioGrid {
+    height: 1185px;
+    background-color: #28464B;
+}
+#click {
+    background-image: url(../Homework/Images/click.png);
+}
+
+#footerBar {
+    background-color: #ECE2D0;
+    height: 139px;
+    align-items: right;
+}
